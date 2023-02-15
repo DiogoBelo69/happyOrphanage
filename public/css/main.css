@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Não alterar a proporção de tamanho qunado adicionar o padding*/
+}
+
+:root {
+    font-size: 65.5%; /*Para meu rem refletir aos meus pixeis precisa estar assim em 65.5%*/
+}
+
+body{
+    color: white;
+    height: 100vh;
+    background: #EBF2F5;
+    color: white;
+}
+
+body, input,button, textarea{
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 400;
+    font-family: 'Nunito', sans-serif;;
+}
+
+
